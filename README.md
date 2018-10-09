@@ -25,3 +25,39 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Technologies
+
+Angular 6+ provides:
+- good structure
+- DI
+- ready to use modules
+- clear documentation
+- big community
+- free
+
+Rxjs 6+ provides:
+- good to work with async code
+- a lot of usefull operators
+- good documentation
+
+Typescript provides:
+- strong type checking
+- good structure for code
+- ready to compile to ES version
+- easy to debug
+- intellisense
+
+Bootstrap 4 provides:
+- very practical to use (intuitive)
+- fast working with UI/UX
+- very light
+- good documentation
+
+Angular CLI provides:
+- improve work (generate basic code)
+- provides optimization in workflow and code
+
+TSLint provides:
+- linter for Typescript
+
